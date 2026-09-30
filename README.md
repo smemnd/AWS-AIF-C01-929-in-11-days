@@ -20,10 +20,10 @@ Here’s how I prepared for the AWS Certified AI Practitioner (AIF-C01) includin
 
 I made this repository for anyone who:
 
-- 💸 Doesn't want to spend money on paid courses
-- 📚 Doesn't know where to start
-- ⏳ Has limited time to prepare
-- ☁️ Wants to use **free resources** effectively
+- Doesn't want to spend money on paid courses
+- Doesn't know where to start
+- Has limited time to prepare
+- Wants to use **free resources** effectively
 
 **You don't need an expensive course to start. You just need the right order to study.**
 
@@ -44,7 +44,6 @@ If you're in the same situation, **I hope this saves you time, money, and a lot 
 - **3-Phase Study Method:** [3-Phase Study Method.md](3-Phase%20Study%20Method.md)
 - **Resources & Practice Tests:** [Resources & Practice Tests.md](Resources%20%26%20Practice%20Tests.md)
 - **Exam Day:** [Exam Day.md](Exam%20Day.md)
-- **Prompts:** [Prompt.md](Prompt.md)
 
 ---
 
@@ -59,9 +58,4 @@ The resources I used and the practice tests I completed during my preparation.
 ## Exam Day
 
 Things to know and prepare before taking the exam.
-
-
-## Prompts
-
-Useful prompts I used during my study process.
 
