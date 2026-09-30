@@ -1,5 +1,6 @@
-I am preparing for the AWS Cloud practitioner refer to the official documentation. Include a cheat sheet at the end which can help me recall key points and get away from common exam traps. 
+## Prompt (ctto Mohammed Khan)
 
+I am preparing for the AWS Cloud practitioner refer to the official documentation. Include a cheat sheet at the end which can help me recall key points and get away from common exam traps. 
 
 - One section per official domain, in order, with numbered subsections (1.1, 1.2…).
 - In each: Bold service names, with a one-line "what it is" and the mechanics the exam actually tests.
