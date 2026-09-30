@@ -1,17 +1,20 @@
 ## My First Take Experience
 
+> Here's a detailed experience for people who wanna know what to expect on the Exam Day.
+
 My exam was scheduled for 8:00–9:30 AM, but check-in started at 7:30 AM. You can access the exam through the link in the email you registered with.
 
 Before starting, make sure you have:
 
-🪪 Passport or valid ID
-🚫 A space where no one can walk behind you
-⌚ No watch
-🎧 No headset/earphones
-🤐 No talking or mumbling during the exam
+- Passport or valid ID
+- No watch
+- No headset/earphones
+- No talking or mumbling during the exam
+- etc. (refer to their exam do's & dont's)
 
-Since test centers near me opened at 8 AM, I couldn't risk going there—being 15 minutes late means your exam is terminated. So, I ended up taking it from my bedroom. 😭
-7:30 AM — Check-in.
+Since test centers near me opened at 8 AM, I couldn't risk going there—being 15 minutes late means your exam is terminated. So, I ended up taking it from my bedroom, a space where no one can walk behind me (since I have roommates).
+
+**7:30 AM — Check-in.**
 I clicked the exam link from my email, entered the code, and passed the system check for my camera, internet, and exam files.
 
 Then came the proctor verification. 
@@ -39,10 +42,6 @@ You can also:
 - Chat with the proctor if you have an issue
 
 After finishing, I reviewed my answers, submitted the exam, and answered 12 survey questions about my experience.
-
-Then came the moment I was waiting for…
-
-PROVISIONAL RESULT: PASS. 🥹
 
 I finished the exam at 10:00 AM:
 
