@@ -14,7 +14,7 @@ P.S. You don’t need to go through all of these resources. Just take a peek, an
 - AWS Skill Builder
 - AWS Documentation
 - YouTube: AWS Certified AI Practitioner (AIF-C01) Full Course by Cram Exam
-- Notes by Mohammed Khan on reddit (This is what I use in my phase 1) 
+- Notes by Mohammed Khan on reddit (This is what I used in my phase 1, it's really well structured, thank you OP!) 
   https://www.reddit.com/r/AWSCertifications/comments/1v43pqf/passed_aws_certified_ai_practitioner_aifc01_in_4/ (I do not want to post his exact gdrive file since it's not mine but you can go there on your own to find it)
 - My Downloadable Notes : https://claude.ai/artifact/NeHvxCQBHWtNtF5xQWDvnX
   - Domain 1
